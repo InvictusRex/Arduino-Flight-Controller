@@ -4,27 +4,6 @@ This repository provides the source code and instructions for building an Arduin
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Hardware Requirements](#hardware-requirements)
-- [Software Requirements](#software-requirements)
-- [Code Structure](#code-structure)
-  - [Setup Program](#1-setupino)
-  - [ESC Calibration](#2-esc_calibrationino)
-  - [Flight Controller](#3-flight_controllerino)
-- [Usage](#usage)
-  - [System Setup](#1-system-setup)
-  - [ESC Calibration](#2-esc-calibration)
-  - [Flight Control](#3-flight-control)
-- [Safety Notes](#safety-notes)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## Overview
 
 This project is designed to turn an Arduino Uno into the central brain of a quadcopter. The source code in this repository is divided into three key components:
